@@ -1,0 +1,10 @@
+{
+  "name": "CIAPAFED",
+  "short_name": "CIAPAFED",
+  "description": "ONG congolaise d'appui participatif \u00e0 l'agriculture familiale et \u00e0 l'environnement durable.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#1f4f37",
+  "lang": "fr"
+}
